@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">Alpr Demo</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This sample demonstrates how to use the ALPR/ANPR SDK in sequential mode
+            to recognize license plates on video stream
+        
+        ]]>
+    </string>
+</resources>

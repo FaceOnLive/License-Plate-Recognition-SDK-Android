@@ -1,0 +1,2 @@
+include ':sdk', ':demo'
+rootProject.name='AlprDemo'
