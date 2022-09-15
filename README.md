@@ -10,9 +10,19 @@
 
 It can not only recognize number plate, but also detect vehicle model, color and country.
 
-Please check our portfolio website. https://portfolio.faceonlive.com
+## :muscle:  Partnership / Cooperation / Project Discussion
+&emsp;<a href="mailto:contact@faceonlive.com?subject=[GitHub]%20License%20Plate%20Recognition%20Android"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"  height="64"/></a>
+</br>
+</br>
 
-Contact us (mailto: contact@faceonlive.com)
+## :tada:  Try It Yourself
+<a href="https://drive.google.com/file/d/1RRLOMN0v9xm_uGPk5pDSryQgMtcrxTog/view?usp=sharing" target="_blank">
+  <img alt="Get it on Google Play" src="https://goo.gl/cR2qQH" height="100"/>
+</a>
+</br>
+</br>
+
+Please check our portfolio website. https://portfolio.faceonlive.com
 
 https://user-images.githubusercontent.com/91896009/186433213-6bb1bda3-6b1b-4f71-b950-85e7d233ddff.mp4
 
